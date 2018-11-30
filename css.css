@@ -1,0 +1,41 @@
+
+nav{
+	background-color: #637B58;
+}
+
+ img{ 
+	height: 600px;
+	border-radius: 500px;
+}
+
+.cards{
+	margin-top: 100px;
+}
+.cards img{
+	border-radius: 200px;
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+
+.tabela{
+	background-color: #B27563;
+}
+
+td a{
+	color: black;
+}
+
+
+.gif img{
+	height: 400px;
+
+}
+
+.gif{
+	margin-bottom: 50px;
+	margin-left:40px ;
+	margin-right: 40px;
+
+}
+
